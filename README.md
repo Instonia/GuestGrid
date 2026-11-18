@@ -1,7 +1,7 @@
 # GuestGrid
 Event Guest and Table Seating Manager
 
-# CP-068 TrackPoint: GuestGrid: Event Guest and Table Seating Manager
+# CP-068 GuestGrid: Event Guest and Table Seating Manager
 ## Team
 Sethuram P (1AT24CS197)
 
