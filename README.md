@@ -3,7 +3,7 @@ Event Guest and Table Seating Manager
 
 # CP-068 TrackPoint: GuestGrid: Event Guest and Table Seating Manager
 ## Team
-Ravi K (1AT23CS045), Asha M (1AT23CS051), Java track
+Sethuram P (1AT24CS197)
 
 ## How to run
 python3 main.py
