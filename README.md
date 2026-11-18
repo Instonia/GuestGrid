@@ -26,71 +26,8 @@ python3 main.py
 
 ## Sample run
 
-=============================================
-                  GUESTGRID
-       EVENT GUEST & TABLE SEATING MANAGER
-=============================================
-1. Add New Guest
-2. View All Guests
-3. Search Guest
-4. Update Guest Details
-5. Update RSVP Status
-6. View Confirmed Headcount
-7. Allocate Guests to Tables
-8. View Meal Preference Summary
-9. Print Seating Chart
-10. Exit
-=============================================
+<img width="749" height="650" alt="image" src="https://github.com/user-attachments/assets/f1551e76-6d54-4941-9056-a8b094466725" />
+<img width="743" height="498" alt="image" src="https://github.com/user-attachments/assets/17ec542a-fd16-436c-9844-cc897c356632" />
+<img width="726" height="642" alt="image" src="https://github.com/user-attachments/assets/5e878398-958d-46b5-b49e-baec2c0d9669" />
 
-Enter your choice (1-10): 1
-
-========== ADD NEW GUEST ==========
-
-Enter guest name: Rahul
-Enter group type (Family/Friends): Family
-Enter group name (e.g. Sharma Family): Sharma Family
-Enter meal preference (Vegetarian/Non-Vegetarian/Vegan/Jain): Vegetarian
-
-Guest added successfully!
-Guest ID: G001
-
-Enter your choice (1-10): 5
-
-========== UPDATE RSVP ==========
-
-Enter Guest ID: G001
-
-Current RSVP: Pending
-1. Confirmed
-2. Declined
-3. Pending
-
-Select new RSVP status: 1
-RSVP updated successfully!
-
-Enter your choice (1-10): 6
-
-========== RSVP SUMMARY ==========
-
-Total Registered Guests: 1
-Confirmed Guests: 1
-Declined Guests: 0
-Pending Guests: 0
-
-Enter your choice (1-10): 8
-
-========== CATERING REPORT ==========
-
-Meal Preference       Headcount
---------------------------------
-Vegetarian             1
-Non-Vegetarian         0
-Vegan                  0
-Jain                   0
---------------------------------
-Total Confirmed Guests: 1
-
-Enter your choice (1-10): 10
-
-Thank you for using GuestGrid!
-Exiting application...
+Note: The above is an illustrative sample execution showing the menu, guest registration, RSVP update and catering report. The actual output depends on the data entered by the user.
